@@ -5,7 +5,6 @@
 ```python
 # who am i?
 class Yevhen:
-    based_in          = "Wrocław, Poland"
     languages         = ["Python", "Java", "C/C++", "SQL"]
     tools             = ["Flask", "FastAPI", "Django", "Spring", "PostgreSQL", "Docker", "Pandas", "Matplotlib"]
     interests         = ["backend systems", "data engineering", "fullstack apps", "AI/ML"]
